@@ -8,11 +8,11 @@ Sekarang disini akan mempelajari Javascript.
 
 1. **Siapkan Editor**
     - Misal Visual Studio Code.
-    ![alt text](gambar/vs.png)
+    ![alt text](gmbar/vs.png)
 
 2. **Buat kerangka baru**
     - Buat file baru `lab5_jc.html` dan masukkan struktur HTML dasar:
-    ![alt text](gambar/1.png)
+    ![alt text](gmbar/1.png)
 
 3. **Berbagai Javacript**
 
